@@ -1,8 +1,12 @@
 {
     "name": "LOS GRANDES DEL PUEBLO",
     "short_name": "LOS GRANDES DEL PUEBLO",
+    "start_url": "./?mode=pwa",
+    "display": "standalone",
+    "background_color": "#3c3c3c",
+    "theme_color": "#3c3c3c",
     "description": "LOS GRANDES DEL PUEBLO",
-    "icons": [
+    "icons": [                          
         {
             "src": "img/logo.png",
             "sizes": "32x32",
